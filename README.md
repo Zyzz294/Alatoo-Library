@@ -10,11 +10,12 @@ Click the heroku link below to request a book immediately!
 > [Heroku Link](https://alatoo-library.herokuapp.com/)
 
 
-<img src="https://user-images.githubusercontent.com/96903120/162615076-f86a9b09-713f-4917-b0b4-1915630caf53.jpg" width="650">
+<img src="https://user-images.githubusercontent.com/96903120/162615562-fd1b7630-7cce-4f4b-9fcb-4600061f225a.jpg" width="650">
 
 ### Add Book Button
 
-<img src="https://user-images.githubusercontent.com/96903120/162615082-28a0750e-31da-41bd-a211-4247a3ef3ada.jpg" width="450"> <img src="https://user-images.githubusercontent.com/96903120/162615079-6d1d3826-b44a-4118-8f80-1f76fc91f800.jpg" width="450">
+<img src="https://user-images.githubusercontent.com/96903120/162615251-fe569bf6-5b77-4ca1-a4a8-1d75627e476e.jpg" width="500"> <img src="https://user-images.githubusercontent.com/96903120/162615567-d40486ea-ed43-498d-ad08-100523ee29b8.jpg" width="500">
 
+### ERD Schema
 
-
+<img src="https://user-images.githubusercontent.com/96903120/162615698-a2ac54a9-f990-4fbd-a86f-f7ce2072ce0e.png" width="250">
