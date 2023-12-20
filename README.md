@@ -6,9 +6,6 @@
 
 A web application created using Java with Spring Framework. This web application uses ***postgres*** database in order to store the data provided. Since it is deployed to heroku, any student of Alatoo University can access this application and can request a book just by typing the information needed.
 
-Click the heroku link below to request a book immediately!
-> [Heroku Link](https://alatoo-library.herokuapp.com/)
-
 
 <img src="https://user-images.githubusercontent.com/96903120/162615562-fd1b7630-7cce-4f4b-9fcb-4600061f225a.jpg" width="650">
 
